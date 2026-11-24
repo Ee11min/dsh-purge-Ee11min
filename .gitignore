@@ -34,3 +34,6 @@ default-prompt-inject.md
 *.asar
 *.asar.bak
 *.bak
+
+# 离线实装包本体（故意入库，供别人直接 clone 使用）
+!tools/payload.tgz

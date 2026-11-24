@@ -6,3 +6,18 @@ Maintained by the dsh-purge maintainers team.
 
 This product is licensed under the Apache License, Version 2.0.
 Derivative works must retain this NOTICE and attribution.
+
+---
+
+Fork notice (this repository)
+
+This repository is a redistribution fork of the upstream project
+  https://github.com/HunYiSage/dsh-purge
+published here as:  https://github.com/Ee11min/dsh-purge-Ee11min
+
+Upstream copyright and the Apache-2.0 license are retained unchanged.
+All upstream attribution requirements in NOTICE / LICENSE-COMMERCIAL.md
+continue to apply to derivative works of the upstream code.
+Only the self-hosting links (repository URL, install tarball/zip/git URLs,
+update-check repo slug) are re-pointed to this fork so that offline/self-hosted
+installation resolves against this repository instead of upstream.
