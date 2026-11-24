@@ -1,3 +1,8 @@
+> **このリポジトリは再配布フォークです。**
+> 上流: [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) · ライセンス: Apache-2.0（変更なし）。
+> `package.json` / `lib/update.js` / `client.js` / release workflow のセルフホスト URL は本フォークを指しています。
+> **オフラインインストーラ（Windows、node 不要・ネット不要）**: [INSTALL.md](INSTALL.md) を参照。
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

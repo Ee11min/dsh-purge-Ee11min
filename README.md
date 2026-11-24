@@ -1,3 +1,8 @@
+> **This repository is a redistribution fork.**
+> Upstream: [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) · License: Apache-2.0 (unchanged).
+> Self-hosting links in `package.json`, `lib/update.js`, `client.js` and the release workflow point at this fork.
+> **Offline installer (Windows, no node / no network needed):** see [INSTALL.md](INSTALL.md) or grab [`tools/dsh-purge-installer.ps1`](tools/dsh-purge-installer.ps1).
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

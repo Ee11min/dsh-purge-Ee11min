@@ -1,3 +1,8 @@
+> **本仓库是再分发分支（fork）。**
+> 上游：[HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) · 许可：Apache-2.0（未改动）。
+> `package.json`、`lib/update.js`、`client.js` 与 release workflow 里的自托管链接已全部指向本仓库。
+> **离线实装（Windows，免 node、免联网）**：见 [INSTALL.md](INSTALL.md)，或直接下 [`tools/dsh-purge-installer.ps1`](tools/dsh-purge-installer.ps1)。
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>
